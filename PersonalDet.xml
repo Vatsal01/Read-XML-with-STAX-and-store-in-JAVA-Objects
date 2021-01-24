@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personaldetails>
+ <detail id = "1">
+   <name> Vatsal</name>
+   <surname> Singh </surname>
+   <homeaddress> 160, Wroclaw, 50-302 </homeaddress>
+   <contact> 123456789</contact>
+   <job> Student </job>
+  </detail>
+ </personaldetails> 
